@@ -1,6 +1,5 @@
 # 📔 MiJournal — Personal Journaling & Diary App for macOS
 
-![MiJournal Logo](https://static.macupdate.com/products/40442/m/mijournal-logo.png?v=1618029183)
 
 <p align="center">
   <a href="http://mijournal.github.io/.github">
