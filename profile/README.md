@@ -58,7 +58,6 @@ MiJournal also helps you build a journaling habit: reminders, streak tracking, a
 ## 🖼️ Screenshots
 
 ![Screenshot 1](https://gotoes.org/sales/Journal_App_Mac/images/Screenshot1.png)  
-![App Screenshot](https://static.macupdate.com/screenshots/265199/m/mijournal-screenshot.png?v=1618029187)
 
 ---
 
